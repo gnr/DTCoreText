@@ -6,7 +6,7 @@
 //  Copyright 2011 Drobnik.com. All rights reserved.
 //
 
-#import <DTFoundation/DTWeakSupport.h>
+#import "DTWeakSupport.h"
 #import "DTAttributedTextContentView.h"
 
 @class DTLazyImageView;

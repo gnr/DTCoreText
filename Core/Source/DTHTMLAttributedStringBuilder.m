@@ -6,8 +6,8 @@
 //  Copyright (c) 2012 Drobnik.com. All rights reserved.
 //
 
-#import <DTFoundation/DTLog.h>
-#import <DTFoundation/DTHTMLParser.h>
+#import "DTLog.h"
+#import "DTHTMLParser.h"
 
 #import "DTHTMLAttributedStringBuilder.h"
 
